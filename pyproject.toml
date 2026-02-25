@@ -1,0 +1,24 @@
+[project]
+name = "langchain-react-agent-tutorial"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "google-search-results>=2.4.2",
+    "langchain>=1.2.3",
+    "langchain-community>=0.4.1",
+    "langchain-mcp-adapters>=0.2.1",
+    "langchain-openai>=1.1.7",
+    "langsmith>=0.6.2",
+    "mcp>=1.9.4",
+    "nest-asyncio>=1.6.0",
+    "python-dotenv>=1.2.1",
+    "wikipedia>=1.4.0",
+]
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+]
