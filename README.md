@@ -21,7 +21,7 @@ Click the badge above to open the notebook directly in Google Colab.
 
 > **Note:** Colab does not display pre-saved outputs. To view the notebook with all outputs already rendered (without running it), use the nbviewer link below.
 
-[![View in nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb)
+[![View in nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb?flush_cache=true)
 
 ### Option 2: Run Locally
 
