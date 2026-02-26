@@ -1,13 +1,15 @@
 # Simple ReAct Agent using LangChain and OpenRouter
 #### Tiziana Ligorio for *AI Agents - CSCI 395.32* taught at Hunter College of The City University of New York
 
-This demo has two parts:
+#### This demo has two parts:
 
-In **Part 1**, we build a simple ReAct agent using the LangChain framework to illustrate how much a framework can abstract and automate compared to our previous demo, where we implemented the agent loop from scratch.
+#### In **Part 1** 
+We build a simple ReAct agent using the LangChain framework to illustrate how much a framework can abstract and automate compared to our previous demo, where we implemented the agent loop from scratch.
 
 As before, the agent follows the ReAct pattern by iteratively alternating between reasoning and acting to accomplish a task. However, in this version most of the control flow —such as managing the reasoning loop, invoking tools, and handling intermediate state— is handled by the framework (and thus standardized) rather implemented directly by the agent developer.  
 
-In **Part 2** we demonstrate how to trace and run evals using LangSmith. 
+#### In **Part 2** 
+We demonstrate how to trace and run evals using LangSmith. 
 
 ## Getting Started
 
