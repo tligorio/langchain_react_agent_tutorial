@@ -18,6 +18,7 @@ We demonstrate how to trace and run evals using LangSmith.
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tligorio/langchain_react_agent_tutorial/blob/main/LangChain_ReAct_agent_OpenRouter.ipynb)
 
 Click the badge above to open the notebook directly in Google Colab.
+**NOTE:** This notebook was executed locally, therefore the outputs are not visible in Colab. To inspect the saved outputs (in particular to observe the traces), inspect the notebook here on GitHub or use the option below "Run Locally" to generate your own output/traces
 
 ### Option 2: Run Locally
 
